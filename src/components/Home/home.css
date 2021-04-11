@@ -1,0 +1,141 @@
+body {
+    background-color: black;
+}
+
+.home-container {
+    background-color: black;
+}
+
+/* .tron-pong-title-gr {
+    margin-top: -100px;
+    width: 800px;
+    height: 400px;
+} */
+
+.tron-pong-title-wh {
+    position: absolute;
+    margin-left: -20px;
+    margin-top: -100px;
+    width: 800px;
+    height: 400px;
+}
+
+h5 {
+    animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+  }
+  
+@keyframes glow {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #235157, 0 0 40px #3a858f, 0 0 50px #33656b, 0 0 60px #e60073, 0 0 70px #3a7985;
+    }
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px #4dbeff, 0 0 40px #4db8ff, 0 0 50px #4deaff, 0 0 60px #4d94ff, 0 0 70px #4d85ff, 0 0 80px #4ddbff;
+    }
+  }
+    
+
+
+.added-group-index {
+    background-color: black;
+    color: white;
+}
+
+#glow {
+    display: inline;
+    animation: glower 1s ease-in-out infinite alternate;
+    animation: glower 1s ease-in-out infinite alternate;
+    animation: glower 1s ease-in-out infinite alternate;
+}
+
+@keyframes glower {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #235157, 0 0 40px #3a858f, 0 0 50px #33656b, 0 0 60px #e60073, 0 0 70px #3a7985;
+    }
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px #4dbeff, 0 0 40px #4db8ff, 0 0 50px #4deaff, 0 0 60px #4d94ff, 0 0 70px #4d85ff, 0 0 80px #4ddbff;
+    }
+  }
+    
+
+li {
+    list-style-type: none;
+}
+
+input {
+    width: 400px;
+}
+
+.welcome-message {
+    font-size: 30px;
+    position: absolute;
+    top: -50px;
+}
+
+.rule {
+    font-size: 20px;
+    font-style: oblique;
+    color: red;
+}
+
+.add {
+    margin-top: 10px;
+}
+
+.game-on {
+    margin-left: 20px;
+}
+
+.added-list {
+    font-size: 20px;
+}
+
+.list-pair {
+    margin-top: 20px;
+    font-size: 20px;
+    
+}
+
+.winner-message {
+    color: white;
+    margin-left: 200px;
+    font-size: 50px;
+    position: absolute;
+    padding-bottom: 100px;
+}
+
+.error-msg {
+    color: red;
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.winner {
+    display: inline;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.games-pair-btn {
+    width:200px;
+}
+
+.tron-pong-couple {
+    z-index:-1;
+    right: 100px;
+    margin-top: 300px;
+}
+
+.circle {
+    /* z-index:-1; */
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 50%;
+    top: 230px;
+    left: 400px;
+    box-shadow: 0px 0px 40px 20px #0ff;
+}
+

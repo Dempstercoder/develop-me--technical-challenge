@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/starter-project/static/css/main.7fd85d20.chunk.css",
-    "main.js": "/starter-project/static/js/main.8aeb22c7.chunk.js",
-    "main.js.map": "/starter-project/static/js/main.8aeb22c7.chunk.js.map",
-    "runtime-main.js": "/starter-project/static/js/runtime-main.61acae2f.js",
-    "runtime-main.js.map": "/starter-project/static/js/runtime-main.61acae2f.js.map",
-    "static/js/2.9fed28f9.chunk.js": "/starter-project/static/js/2.9fed28f9.chunk.js",
-    "static/js/2.9fed28f9.chunk.js.map": "/starter-project/static/js/2.9fed28f9.chunk.js.map",
-    "index.html": "/starter-project/index.html",
-    "static/css/main.7fd85d20.chunk.css.map": "/starter-project/static/css/main.7fd85d20.chunk.css.map",
-    "static/js/2.9fed28f9.chunk.js.LICENSE.txt": "/starter-project/static/js/2.9fed28f9.chunk.js.LICENSE.txt",
-    "static/media/tron-couple-small.ab0befb4.png": "/starter-project/static/media/tron-couple-small.ab0befb4.png",
-    "static/media/tron-text-wh-small.e65edf51.png": "/starter-project/static/media/tron-text-wh-small.e65edf51.png"
+    "main.css": "/develop-me--technical-challenge/static/css/main.7fd85d20.chunk.css",
+    "main.js": "/develop-me--technical-challenge/static/js/main.8aeb22c7.chunk.js",
+    "main.js.map": "/develop-me--technical-challenge/static/js/main.8aeb22c7.chunk.js.map",
+    "runtime-main.js": "/develop-me--technical-challenge/static/js/runtime-main.0ee9e081.js",
+    "runtime-main.js.map": "/develop-me--technical-challenge/static/js/runtime-main.0ee9e081.js.map",
+    "static/js/2.9fed28f9.chunk.js": "/develop-me--technical-challenge/static/js/2.9fed28f9.chunk.js",
+    "static/js/2.9fed28f9.chunk.js.map": "/develop-me--technical-challenge/static/js/2.9fed28f9.chunk.js.map",
+    "index.html": "/develop-me--technical-challenge/index.html",
+    "static/css/main.7fd85d20.chunk.css.map": "/develop-me--technical-challenge/static/css/main.7fd85d20.chunk.css.map",
+    "static/js/2.9fed28f9.chunk.js.LICENSE.txt": "/develop-me--technical-challenge/static/js/2.9fed28f9.chunk.js.LICENSE.txt",
+    "static/media/tron-couple-small.ab0befb4.png": "/develop-me--technical-challenge/static/media/tron-couple-small.ab0befb4.png",
+    "static/media/tron-text-wh-small.e65edf51.png": "/develop-me--technical-challenge/static/media/tron-text-wh-small.e65edf51.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.61acae2f.js",
+    "static/js/runtime-main.0ee9e081.js",
     "static/js/2.9fed28f9.chunk.js",
     "static/css/main.7fd85d20.chunk.css",
     "static/js/main.8aeb22c7.chunk.js"
